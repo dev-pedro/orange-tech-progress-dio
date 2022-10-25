@@ -217,9 +217,7 @@ desfazer nossos commits.
 ## **10. Git merge**
 
 Quando você concluir o desenvolvimento em sua branch e quando tudo funcionar 
-bem, a etapa final é fazer o merge (mesclar ou unir, em português) da 
-branch com a branch pai (dev ou master/main, em geral). Isso é feito com
- o comando `git merge`.
+bem, a etapa final é fazer o merge (mesclar ou unir, em português) da branch com a branch pai (dev ou master/main, em geral). Isso é feito com o comando `git merge`.
 
 Git merge, basicamente, integra sua branch com o recurso e todos os seus commits na branch de desenvolvimento (dev) ou na branch principal (master ou main). É 
 importante lembrar que, primeiro, você precisa estar na branch específica na qual você quer fazer o merge de sua branch com o recurso.
@@ -249,8 +247,6 @@ git merge <nome-da-branch-com-o-recurso>
 Esses são os meus 10 comandos mais usados do Git, com os quais eu lido 
 diariamente ao programar. Existe muito mais para se aprender sobre o Git
  e eu tentarei explicar o resto em artigos separados.
-
-
 
 > Essas anotações foram extraidas do site freecodecamp.org
 > 
