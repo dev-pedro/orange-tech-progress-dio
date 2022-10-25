@@ -1,4 +1,4 @@
-# Desafio de projeto sobre Git/Github da DIO
+# Acompanhamento de progresso - bootcamp Orange Tech+ na DIO
 
 Repositório criado para fazer anotações do progresso do Bootcamp(Orange Tech+) na DIO.
 
