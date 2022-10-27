@@ -1,4 +1,4 @@
-# Git/GitHub
+# Introdução ao Git/GitHub
 
 #### Instalação
 
