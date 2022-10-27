@@ -12,4 +12,8 @@ Repositório criado para fazer anotações do progresso do Bootcamp(Orange Tech+
 
 Nesta aula aprendi sobre alguns tipos de variáveis, operadores e estruturas condicionais
 
- 
+### Conhecendo funções javascript
+
+O poder das funções na qualidade de seu código
+    - simplificar o código
+    - reutilizar blocos de código em outras partes do código
