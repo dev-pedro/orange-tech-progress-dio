@@ -39,3 +39,41 @@ Conceitos de listas e arrays
 - [Métodos de array no Javascript](https://juliocarneiro.medium.com/m%C3%A9todos-de-array-no-javascript-ef43c8f50c52)
 
 - como percorrer itens em uma lista usando estruturas condicionais
+
+### Introdução ao Desenvolvimento Web com JavaScript
+
+Desenvolvimento Web com JavaScript
+
+* Configuração do ambiente de desenvolvimento
+
+* instalação, node e npm, como rodar um server local "http-server"
+
+* Introdução básica sobre html
+  
+  * linguagem de marcação
+
+* Introdução básica sobre css
+  
+  * linguagem de estilo
+
+* Explicação sobre interação com JavaScript 
+  
+  * interação para as páginas
+
+* [Introdução à Web - Aprendendo desenvolvimento web | MDN](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web)
+
+* [GitHub - digitalinnovationone/js-developer-pokedex](https://github.com/digitalinnovationone/js-developer-pokedex)
+
+* [normalize - Libraries - cdnjs - The #1 free and open source CDN built to make life easier for developers](https://cdnjs.com/libraries/normalize)
+
+### Criando um Projeto com HTML/CSS para Listagem de Pokémon
+
+* Normalize nas páginas html
+
+* Organizando o projeto
+
+* Adicionar fontes pesonalizadas
+
+* Estilização CSS
+
+* Tornando layout responsivo
