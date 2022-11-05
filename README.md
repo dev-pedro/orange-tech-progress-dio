@@ -77,3 +77,5 @@ Desenvolvimento Web com JavaScript
 * Estilização CSS
 
 * Tornando layout responsivo
+
+* [Pokedex-js]([GitHub - dev-pedro/pokedex-js](https://github.com/dev-pedro/pokedex-js))
