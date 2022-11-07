@@ -79,3 +79,27 @@ Desenvolvimento Web com JavaScript
 * Tornando layout responsivo
 
 * [Pokedex-js]([GitHub - dev-pedro/pokedex-js](https://github.com/dev-pedro/pokedex-js))
+
+### Dominando o Protocolo HTTP e Integrando coma a PokeAPI
+
+* Como funcionam as requisições
+
+* Url, Path, Method
+
+* Method (GET | POST | PUT | DELETE | PATCH)
+
+* [Padrão REST](https://www.brunobrito.net.br/padrao-rest/)
+
+* Passagem de parametros **2** formas, (1ª direto no path(caminho-url), 2ª pela QueryString)
+
+* Request Headers e Response Headers (configuração da nossa requisição - lado cliente | reposta da requisição - lado servidor)
+
+* Body - Corpo de informação metodos utilizados (POST | PUT | PATH)
+  
+  * Requisição é composta (URL, Request Method, Request Headers, Response Headers, Request Body)
+  
+  * Status Code (significa o resultado da requisição) [HTTP: Status Code](https://www.devmedia.com.br/http-status-code/41222)
+
+* Requisição via Fetch (resposta assíncrona)
+
+* Manipulação de lista "ol - html"  via código javascript
