@@ -103,3 +103,9 @@ Desenvolvimento Web com JavaScript
 * Requisição via Fetch (resposta assíncrona)
 
 * Manipulação de lista "ol - html"  via código javascript
+
+### Desafio de projeto
+
+###### Construindo uma Pokédex com JavaScript
+
+[Pokedex](https://dev-pedro.github.io/pokedex-js/)
