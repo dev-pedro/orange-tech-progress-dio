@@ -6,9 +6,6 @@ let elementos = [64, 137, -16, 43, 67, 81, -90, 212, 10, 75];
 
 //let valor = parseInt(gets());
 
-//TODO: Retorne o valor do elemento no Array junto de sua respectiva posição.
-
-
 console.log(buscaSequencia(-16, elementos));
 
 function buscaSequencia(num, lista) {

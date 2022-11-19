@@ -6,7 +6,6 @@
 //var N = parseInt(gets());
 let n = 15;
 
-//TODO: Implemente um método que calcule o somatório de um número usando recursividade:
 let total = 0;
 function somatorio(n){
     for(let i = 0; i <= n; i++){

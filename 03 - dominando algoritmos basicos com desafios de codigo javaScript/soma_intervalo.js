@@ -7,7 +7,6 @@
 var A = 5;
 var N = 20;
 let total = 0;
-//TODO:  Retorne o valor da soma de todos múltiplos de "A" até o seu limite "N".
 
 for(let i = 0; i <= N; i++){
   if(i % A ===0){

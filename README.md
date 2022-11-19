@@ -6,7 +6,7 @@ Repositório criado para fazer anotações do progresso do Bootcamp(Orange Tech+
 
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax)
 
-### Primeiras páginas interativas com JavaScript (26/10/2022)
+### Primeiras páginas interativas com JavaScript
 
 Nesta aula aprendi sobre alguns tipos de variáveis, operadores e estruturas condicionais
 
@@ -109,3 +109,71 @@ Desenvolvimento Web com JavaScript
 ###### Construindo uma Pokédex com JavaScript
 
 [Pokedex](https://dev-pedro.github.io/pokedex-js/)
+
+### Primeiros passos na biblioteca React
+
+* O que é o React
+  
+  * É uma biblioteca javascript
+
+* Framwork x Biblioteca
+  
+  * Biblioteca - Coleção de recursos usados para alguma solução por meio de funções. Ex:
+    
+    * Moment.js
+    
+    * Chart.js
+    
+    * Voca
+    
+    * mo.js
+    
+    * React.js
+  
+  * Framwork - Uma ferramenta que padroniza configurações de projetos e você utiliza para seu desenvolvimento em projetos de software . Ex:
+    
+    * Angular
+    
+    * Vuex
+    
+    * Ionic
+    
+    * Next
+    
+    * Express
+    
+    * LoopBack
+
+* Criando um projeto React
+  
+  * npx create-react-app "nome_do_app" (executar comando no terminal)
+
+* Componentes de classes x Funcionais
+  
+  * Componentes de classes é uma forma das versões antigas do react de apresentar componentes (escrito dentro de uma function) **NÃO SÃO MAIS UTILIZADOS EM PROJETOS NOVOS**
+  
+  * Funcional são as formas mais recentes de se usar componentes no react
+
+* Conceitos de componentes e props
+  
+  * Componentes são formas de centralizar as resposabilidades
+  
+  * Gera uma facilidade para dar manutenção no código devido à padronização
+
+* Ciclo de vida
+  
+  * Contructor
+  1. getDerivedStateFromProps
+  
+  2. componentDidMount
+  
+  3. shouldComponentUpdate
+  
+  4. render
+  
+  5. getSnapShotBeforeUpdate
+  
+  6. componentDidUpdate
+  
+  7. componentWillUpdate
+  * O ciclo de vida dos componentes sofrem mudanças durante a execução app
