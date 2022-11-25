@@ -177,3 +177,63 @@ Desenvolvimento Web com JavaScript
   
   7. componentWillUpdate
   * O ciclo de vida dos componentes sofrem mudanças durante a execução app
+
+### Iniciando um Projeto com React CLI e Navegação
+
+##### React CLI
+
+* Ex: npx create-react-app {nome_projeto}
+
+* Uma ferramenta de linha de comando que já traz um modelo de projeto como base
+
+##### Styled-Components
+
+* É uma bilioteca que possibilita escrever código CSS dento do JavaScript
+  
+  * Basicamente, styled components **é uma biblioteca que possibilita escrever códigos CSS dentro do JavaScript**. Com ele, você pode criar websites bonitos e funcionais. Além disso, ganhar mais agilidade e precisão no desenvolvimento web.
+
+##### Hooks
+
+* Para que servem os Hooks?
+  
+  * **Hooks** são funções que permitem a você “ligar-se” aos recursos de state e ciclo de vida do React a partir de componentes funcionais. **Hooks** não funcionam dentro de classes — eles permitem que você use React sem classes.
+
+* **Existem 4 tipos de **Hooks**:**
+  
+  * useState **Hook**.
+    
+    * Serve para manipular o estado dos nossos componentes
+  
+  * useEffect **Hook**.
+    
+    * Monitora o ciclo de vida dos componentes 
+  
+  * useMemo **Hook**.
+    
+    * Memoriza valores em uma determinada variável para evitar processamentos desnecessários e prejudicar a performance da aplicação (salvar referencias em variáveis - const, var, let)
+  
+  * useCallback
+    
+    * Trabalha parecido com o useMemo porém armazena uma função (salvar referencias de funções)
+
+##### Trabalhando com formulários no React
+
+* O que é o React Hook Form
+
+**React Hook Form** é uma biblioteca que auxilia na criação e validação dos formulários, como já mencionado, além de reduzir a quantidade de código desenvolvido, fazendo com que a captura de ações do formulário também seja mais objetiva.
+
+##### Fundamentos do TypeScript
+
+* O que é o TypeScript e para que serve?
+
+**TypeScript** é um superset de JavaScript, ou seja, um conjunto de ferramentas e formas mais eficientes de escrever código JavaScript, adicionando recursos que não estão presentes de maneira nativa na linguagem.
+
+* Os Benefícios de usar TypeScript
+
+Uma das maiores **vantagens** da **TypeScript** é possibilitar que os IDEs proporcionem um ambiente mais seguro, ao apontar erros enquanto o código é digitado pelo usuário. A linguagem **TypeScript** adiciona tipagem estática ao JavaScript, que, originalmente, possui tipagem dinâmica.
+
+* Conceitos básicos do TypeScript
+
+[O mínimo que você precisa saber sobre TypeScript](https://medium.com/@matheusmariano/o-m%C3%ADnimo-que-voc%C3%AA-precisa-saber-sobre-typescript-58d1b418f78b)
+
+##### Convertendo o Projeto de JavaScript para TypeScript
